@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Chapter 10</string>
+    <string name="btnStart">Start frame animation</string>
+    <string name="btnStop">Stop frame animation</string>
+    <string name="imgDes">Northern lights image</string>
+</resources>
